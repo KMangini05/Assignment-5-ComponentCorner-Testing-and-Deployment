@@ -1,0 +1,20 @@
+/* CSS created with assistance from ChatGPT */
+
+footer {
+    margin-top: 40px;
+    padding: 40px;
+    background: #262626;
+    color: white;
+    text-align: center;
+    border-top: 1px solid #ddd;
+}
+
+footer h2 {
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+
+footer p {
+    margin: 8px 0;
+    font-size: 16px;
+}

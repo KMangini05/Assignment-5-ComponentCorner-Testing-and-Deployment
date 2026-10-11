@@ -1,0 +1,50 @@
+/* CSS created with assistance from ChatGPT */
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+    border-bottom: 1px solid #ddd;
+    background: white;
+}
+
+header h1 {
+    font-size: 28px;
+    margin: 0;
+}
+
+nav {
+    display: flex;
+    gap: 25px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #262626;
+    font-size: 16px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* Shopping cart icon and count badge */
+.cart-container {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.cart-icon {
+    font-size: 24px;
+}
+
+.cart-count {
+    background-color: blue;
+    color: white;
+    border-radius: 50%;
+    padding: 4px 8px;
+    font-size: 12px;
+    font-weight: bold;
+}
